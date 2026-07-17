@@ -284,9 +284,9 @@
             "style": "full",
             "height": 268.4972170686458,
             "width": 98.02102659245517,
-            "verticalSpacing": 8,
+            "verticalSpacing": 2.5726654298083096,
             "horizontalPadding": 16,
-            "borderRadius": 16,
+            "borderRadius": 20.853432282003727,
             "duration": 3000
           }
         }
@@ -397,7 +397,7 @@
       {
         "id": "banner_1784308435579",
         "type": "banner",
-        "enabled": true,
+        "enabled": false,
         "data": {
           "title": "New Section",
           "banners": [
