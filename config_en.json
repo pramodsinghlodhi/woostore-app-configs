@@ -390,7 +390,7 @@
       {
         "id": "brands",
         "type": "brands",
-        "enabled": false,
+        "enabled": true,
         "data": {
           "title": "Brands"
         }
