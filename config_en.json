@@ -389,38 +389,17 @@
       {
         "id": "brands",
         "type": "brands",
-        "enabled": true,
+        "enabled": false,
         "data": {
           "title": "Brands"
         }
       },
       {
-        "id": "banner_1784308435579",
-        "type": "banner",
-        "enabled": false,
+        "id": "brand_list_1784309556191",
+        "type": "brand_list",
+        "enabled": true,
         "data": {
-          "title": "New Section",
-          "banners": [
-            {
-              "id": "banner1",
-              "title": "New Banner",
-              "subtitle": "Banner description",
-              "buttonText": "Shop Now",
-              "color": "#4F46E5",
-              "imageData": null,
-              "imageUrl": null
-            }
-          ],
-          "settings": {
-            "autoPlay": true,
-            "style": "full",
-            "height": 251.04,
-            "width": 100,
-            "verticalSpacing": 8,
-            "horizontalPadding": 16,
-            "borderRadius": 16,
-            "duration": 3000
-          }
+          "title": "Brand List"
         }
       }
     ]
