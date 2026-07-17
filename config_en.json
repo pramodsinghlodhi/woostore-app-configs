@@ -61,6 +61,9 @@
       "colors": {
         "primary": "#37AC7B",
         "secondary": "#0B752A"
+      },
+      "bottomNav": {
+        "style": "modern"
       }
     },
     "categories": [
@@ -171,7 +174,7 @@
       {
         "id": "42",
         "name": "Light",
-        "image": "https://streamerdevice.com/wp-content/uploads/2026/06/hfhjc.png",
+        "image": "https://streamerdevice.com/wp-content/uploads/2026/07/ulanzi_vl49_500x500.jpg",
         "icon": "📦",
         "color": "#059669",
         "enabled": true
@@ -774,12 +777,12 @@
     ]
   },
   "currencies": {
-    "default": "USD",
+    "default": "INR",
     "enabled": [
       {
-        "code": "USD",
-        "symbol": "$",
-        "name": "USD"
+        "code": "INR",
+        "symbol": "₹",
+        "name": "INR"
       }
     ]
   }
