@@ -20,7 +20,7 @@
     "enabled": true,
     "slides": [
       {
-        "title": "Welcome to Woostore",
+        "title": "Welcome to Streamer Device",
         "subtitle": "Discover amazing products from top vendors around the world",
         "image": "https://woostorebuilder.b-cdn.net/banners/91f4056a-9787-4131-943a-aa9c4ea30e0d.png",
         "color": "#FF5733"
@@ -708,28 +708,69 @@
         "name": "English"
       },
       {
-        "code": "fa",
-        "name": "فارسي (Farsi)"
+        "code": "ar",
+        "name": "Arabic"
       },
       {
-        "code": "fi",
-        "name": "Suomi (Finnish)"
+        "code": "ur",
+        "name": "Urdu"
+      },
+      {
+        "code": "hi",
+        "name": "Hindi"
+      },
+      {
+        "code": "bn",
+        "name": "Bengali"
+      },
+      {
+        "code": "es",
+        "name": "Spanish"
       },
       {
         "code": "fr",
-        "name": "Français (French)"
+        "name": "French"
       },
       {
         "code": "de",
-        "name": "Deutsch (German)"
+        "name": "German"
+      },
+      {
+        "code": "it",
+        "name": "Italian"
+      },
+      {
+        "code": "pt",
+        "name": "Portuguese"
+      },
+      {
+        "code": "ru",
+        "name": "Russian"
+      },
+      {
+        "code": "ja",
+        "name": "Japanese"
+      },
+      {
+        "code": "ko",
+        "name": "Korean"
+      },
+      {
+        "code": "zh",
+        "name": "Chinese"
+      },
+      {
+        "code": "tr",
+        "name": "Turkish"
+      },
+      {
+        "code": "vi",
+        "name": "Vietnamese"
+      },
+      {
+        "code": "id",
+        "name": "Indonesian"
       }
-    ],
-    "enabledCodes": [
-      "en",
-      "fi",
-      "fa",
-      "fr",
-      "de"
     ]
   },
   "currencies": {
