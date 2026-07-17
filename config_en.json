@@ -708,78 +708,37 @@
         "name": "English"
       },
       {
-        "code": "ar",
-        "name": "Arabic"
+        "code": "fa",
+        "name": "فارسي (Farsi)"
       },
       {
-        "code": "ur",
-        "name": "Urdu"
-      },
-      {
-        "code": "hi",
-        "name": "Hindi"
-      },
-      {
-        "code": "bn",
-        "name": "Bengali"
-      },
-      {
-        "code": "es",
-        "name": "Spanish"
+        "code": "fi",
+        "name": "Suomi (Finnish)"
       },
       {
         "code": "fr",
-        "name": "French"
+        "name": "Français (French)"
       },
       {
         "code": "de",
-        "name": "German"
-      },
-      {
-        "code": "it",
-        "name": "Italian"
-      },
-      {
-        "code": "pt",
-        "name": "Portuguese"
-      },
-      {
-        "code": "ru",
-        "name": "Russian"
-      },
-      {
-        "code": "ja",
-        "name": "Japanese"
-      },
-      {
-        "code": "ko",
-        "name": "Korean"
-      },
-      {
-        "code": "zh",
-        "name": "Chinese"
-      },
-      {
-        "code": "tr",
-        "name": "Turkish"
-      },
-      {
-        "code": "vi",
-        "name": "Vietnamese"
-      },
-      {
-        "code": "id",
-        "name": "Indonesian"
+        "name": "Deutsch (German)"
       }
+    ],
+    "enabledCodes": [
+      "en",
+      "fi",
+      "fa",
+      "fr",
+      "de"
     ]
   },
   "currencies": {
-    "default": "INR",
+    "default": "USD",
     "enabled": [
       {
-        "code": "INR",
-        "symbol": "₹",
-        "name": "INR"
+        "code": "USD",
+        "symbol": "$",
+        "name": "USD"
       }
     ]
   }
