@@ -46,7 +46,7 @@
     "theme": {
       "productCard": {
         "showVendor": true,
-        "showCartButton": false,
+        "showCartButton": true,
         "style": "classic"
       },
       "categoryPage": {
