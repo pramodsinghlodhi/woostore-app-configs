@@ -1,0 +1,786 @@
+{
+  "features": {
+    "search": true,
+    "wishlist": true,
+    "cart": true,
+    "reviews": true,
+    "socialLogin": true,
+    "pushNotifications": true,
+    "darkMode": false
+  },
+  "splash": {
+    "logo": "https://woostorebuilder.b-cdn.net/banners/4931ae13-cbbc-4149-b358-7dba2ecf97d0.png",
+    "backgroundColor": "#FFFFFF"
+  },
+  "appAssets": {
+    "splashLogo": "https://woostorebuilder.b-cdn.net/banners/4931ae13-cbbc-4149-b358-7dba2ecf97d0.png",
+    "appLauncherIcon": "https://woostorebuilder.b-cdn.net/banners/ab79a4e5-c093-4a8d-9342-d333234d6368.png"
+  },
+  "onboarding": {
+    "enabled": true,
+    "slides": [
+      {
+        "title": "Welcome to Woostore",
+        "subtitle": "Discover amazing products from top vendors around the world",
+        "image": "https://woostorebuilder.b-cdn.net/banners/91f4056a-9787-4131-943a-aa9c4ea30e0d.png",
+        "color": "#FF5733"
+      },
+      {
+        "title": "Easy Shopping",
+        "subtitle": "Browse categories and find exactly what you need with smart search",
+        "image": "https://woostorebuilder.b-cdn.net/banners/a94df873-b65f-41d4-b097-33be3e17dc32.png",
+        "color": "#33C4FF"
+      },
+      {
+        "title": "Fast Delivery",
+        "subtitle": "Get your orders delivered quickly and track them in real-time",
+        "image": "https://woostorebuilder.b-cdn.net/banners/120c26bb-776b-4152-895e-5c7c8ce4d521.png",
+        "color": "#8E44AD"
+      }
+    ],
+    "skipButtonText": "Skip",
+    "nextButtonText": "Next",
+    "getStartedButtonText": "Get Started"
+  },
+  "ui": {
+    "theme": {
+      "productCard": {
+        "showVendor": true,
+        "showCartButton": false,
+        "style": "classic"
+      },
+      "categoryPage": {
+        "style": "modern"
+      },
+      "cartPage": {
+        "style": "modern"
+      },
+      "profilePage": {
+        "style": "modern"
+      },
+      "colors": {
+        "primary": "#37AC7B",
+        "secondary": "#0B752A"
+      }
+    },
+    "categories": [
+      {
+        "id": "29",
+        "name": "Accessories",
+        "image": false,
+        "icon": "📦",
+        "color": "#F59E0B",
+        "enabled": true
+      },
+      {
+        "id": "35",
+        "name": "Action Cameras",
+        "image": "",
+        "icon": "📦",
+        "color": "#0891B2",
+        "enabled": true
+      },
+      {
+        "id": "24",
+        "name": "Adapter",
+        "image": "",
+        "icon": "📦",
+        "color": "#DC2626",
+        "enabled": true
+      },
+      {
+        "id": "15",
+        "name": "All",
+        "image": "",
+        "icon": "📦",
+        "color": "#0891B2",
+        "enabled": true
+      },
+      {
+        "id": "30",
+        "name": "Cable",
+        "image": "",
+        "icon": "📦",
+        "color": "#4F46E5",
+        "enabled": true
+      },
+      {
+        "id": "114",
+        "name": "Camera",
+        "image": "https://streamerdevice.com/wp-content/uploads/2026/07/Untitled-design-20.jpg",
+        "icon": "📦",
+        "color": "#DC2626",
+        "enabled": true
+      },
+      {
+        "id": "41",
+        "name": "Capture Card",
+        "image": "",
+        "icon": "🚗",
+        "color": "#7C3AED",
+        "enabled": true
+      },
+      {
+        "id": "39",
+        "name": "Decoder",
+        "image": "",
+        "icon": "📦",
+        "color": "#F59E0B",
+        "enabled": true
+      },
+      {
+        "id": "48",
+        "name": "Desktop Mic",
+        "image": "",
+        "icon": "📦",
+        "color": "#10B981",
+        "enabled": true
+      },
+      {
+        "id": "37",
+        "name": "Devices",
+        "image": "https://streamerdevice.com/wp-content/uploads/2026/06/jkj.jpg",
+        "icon": "📦",
+        "color": "#8B5CF6",
+        "enabled": true
+      },
+      {
+        "id": "38",
+        "name": "Encoder",
+        "image": "",
+        "icon": "📦",
+        "color": "#10B981",
+        "enabled": true
+      },
+      {
+        "id": "52",
+        "name": "Headphone",
+        "image": "https://streamerdevice.com/wp-content/uploads/2026/06/tffkuyf.jpg",
+        "icon": "📱",
+        "color": "#059669",
+        "enabled": true
+      },
+      {
+        "id": "99",
+        "name": "Home NAS",
+        "image": "",
+        "icon": "🏠",
+        "color": "#F59E0B",
+        "enabled": true
+      },
+      {
+        "id": "42",
+        "name": "Light",
+        "image": "https://streamerdevice.com/wp-content/uploads/2026/06/hfhjc.png",
+        "icon": "📦",
+        "color": "#059669",
+        "enabled": true
+      },
+      {
+        "id": "46",
+        "name": "Mic",
+        "image": "https://streamerdevice.com/wp-content/uploads/2026/06/dhjhv.jpg",
+        "icon": "📦",
+        "color": "#EC4899",
+        "enabled": true
+      },
+      {
+        "id": "88",
+        "name": "NAS",
+        "image": "https://streamerdevice.com/wp-content/uploads/2026/06/nas-coce.jpg",
+        "icon": "📦",
+        "color": "#10B981",
+        "enabled": true
+      },
+      {
+        "id": "98",
+        "name": "Pocket NAS",
+        "image": "",
+        "icon": "📦",
+        "color": "#10B981",
+        "enabled": true
+      },
+      {
+        "id": "106",
+        "name": "Pocket Tripod",
+        "image": "",
+        "icon": "📦",
+        "color": "#EC4899",
+        "enabled": true
+      },
+      {
+        "id": "44",
+        "name": "Streaming Light",
+        "image": "",
+        "icon": "📦",
+        "color": "#DC2626",
+        "enabled": true
+      },
+      {
+        "id": "25",
+        "name": "Tripod",
+        "image": "https://streamerdevice.com/wp-content/uploads/2026/06/xgxg.jpg",
+        "icon": "📦",
+        "color": "#0891B2",
+        "enabled": true
+      },
+      {
+        "id": "55",
+        "name": "Wireless Headphone",
+        "image": "",
+        "icon": "📱",
+        "color": "#0891B2",
+        "enabled": true
+      }
+    ],
+    "categoriesSettings": {
+      "itemLimit": 8,
+      "title": "Categories",
+      "showSeeAll": true,
+      "layoutType": "Grid",
+      "displayMode": "Image",
+      "crossAxisCount": 4,
+      "spacing": 16,
+      "borderRadius": 16,
+      "shadowIntensity": 0.06,
+      "horizontalPadding": 20,
+      "verticalPadding": 10,
+      "style": "grid",
+      "categoryStyle": "card"
+    }
+  },
+  "header": {
+    "style": "modern",
+    "showLogo": true,
+    "showSearch": true,
+    "showNotifications": true,
+    "backgroundColor": "#FFFFFF",
+    "height": 60
+  },
+  "home": {
+    "sections": [
+      {
+        "id": "banner",
+        "type": "banner",
+        "enabled": true,
+        "data": {
+          "title": "Main Banner",
+          "banners": [
+            {
+              "id": "banner1",
+              "title": "New Banner",
+              "subtitle": "Banner description",
+              "buttonText": "Shop Now",
+              "color": "#4F46E5",
+              "imageData": null,
+              "imageUrl": "https://woostorebuilder.b-cdn.net/banners/dc66280a-6f42-438e-8edb-96222de1509d.jpg"
+            }
+          ],
+          "settings": {
+            "autoPlay": true,
+            "style": "full",
+            "height": 251.04,
+            "width": 100,
+            "verticalSpacing": 8,
+            "horizontalPadding": 16,
+            "borderRadius": 16,
+            "duration": 3000
+          }
+        }
+      },
+      {
+        "id": "categories",
+        "type": "categories",
+        "enabled": true,
+        "data": {
+          "title": "Categories",
+          "banners": [
+            {
+              "id": "banner1",
+              "title": "",
+              "subtitle": "",
+              "buttonText": "",
+              "color": "#4F46E5",
+              "imageData": null,
+              "imageUrl": "https://woostorebuilder.b-cdn.net/banners/20d58fc9-8769-49f5-83f7-4c6ae355ec7b.png"
+            },
+            {
+              "id": "banner2",
+              "title": "",
+              "subtitle": "",
+              "buttonText": "",
+              "color": "#4F46E5",
+              "imageData": null,
+              "imageUrl": "https://woostorebuilder.b-cdn.net/banners/567cb2b0-d876-49da-8d8e-0dce54aadbc7.png"
+            },
+            {
+              "id": "banner3",
+              "title": "",
+              "subtitle": "",
+              "buttonText": "",
+              "color": "#4F46E5",
+              "imageData": null,
+              "imageUrl": "https://woostorebuilder.b-cdn.net/banners/28fabaf9-6c38-4294-b7c1-cb5825edf0c4.png"
+            }
+          ]
+        }
+      },
+      {
+        "id": "featured_products",
+        "type": "product_list",
+        "enabled": true,
+        "data": {
+          "title": "Featured Products",
+          "source": "featured",
+          "banners": [
+            {
+              "id": "banner1",
+              "title": "New Banner",
+              "subtitle": "Banner description",
+              "buttonText": "Shop Now",
+              "color": "#4F46E5",
+              "imageData": null,
+              "imageUrl": "https://woostorebuilder.b-cdn.net/banners/ab544aa4-5aef-4311-983a-3d97504f2762.png"
+            }
+          ]
+        }
+      },
+      {
+        "id": "banner_1775901932584",
+        "type": "banner",
+        "enabled": true,
+        "data": {
+          "title": "Banner",
+          "banners": [
+            {
+              "id": "banner1",
+              "title": "New Banner",
+              "subtitle": "Banner description",
+              "buttonText": "Shop Now",
+              "color": "#4F46E5",
+              "imageData": null,
+              "imageUrl": "https://woostorebuilder.b-cdn.net/banners/8264779c-3e23-47e0-8d52-d8f1060641b0.jpeg"
+            }
+          ],
+          "settings": {
+            "autoPlay": true,
+            "style": "full",
+            "height": 251.04,
+            "width": 100,
+            "verticalSpacing": 8,
+            "horizontalPadding": 16,
+            "borderRadius": 16,
+            "duration": 3000
+          }
+        }
+      },
+      {
+        "id": "popular_products",
+        "type": "product_list",
+        "enabled": true,
+        "data": {
+          "title": "Popular Products",
+          "source": "popular"
+        }
+      },
+      {
+        "id": "brands",
+        "type": "brands",
+        "enabled": true,
+        "data": {
+          "title": "Brands"
+        }
+      }
+    ]
+  },
+  "navigation": {
+    "style": "modern",
+    "backgroundColor": "#FFFFFF",
+    "activeColor": "#7C3AED",
+    "inactiveColor": "#9CA3AF",
+    "showLabels": true,
+    "items": [
+      {
+        "icon": "home",
+        "label": "Home",
+        "page": "home",
+        "enabled": true
+      },
+      {
+        "icon": "category",
+        "label": "Categories",
+        "page": "categories",
+        "enabled": true
+      },
+      {
+        "icon": "shopping_cart_outlined",
+        "label": "Cart",
+        "page": "cart",
+        "enabled": true
+      },
+      {
+        "icon": "person_outline",
+        "label": "Profile",
+        "page": "profile",
+        "enabled": true
+      }
+    ]
+  },
+  "localization": {
+    "welcome": "Welcome to Woostore",
+    "search": "Search products...",
+    "categories": "Categories",
+    "featured": "Featured",
+    "popular": "Popular",
+    "addToCart": "Add to Cart",
+    "buyNow": "Buy Now",
+    "viewAll": "View All",
+    "cart": "Shopping Cart",
+    "clear": "Clear",
+    "clearAll": "Clear All",
+    "emptyCartTitle": "Your cart is empty",
+    "emptyCartDesc": "Add some products to get started",
+    "continueShopping": "Continue Shopping",
+    "subtotal": "Subtotal",
+    "totalEstimate": "Total Estimate",
+    "totalPayment": "Total payment",
+    "checkout": "Checkout",
+    "proceedToCheckout": "Proceed to Checkout",
+    "remove": "Remove",
+    "products": "Products",
+    "failedToLoadCategories": "Failed to load categories",
+    "noCategories": "No categories found",
+    "retry": "Retry",
+    "myAccount": "My Account",
+    "support": "Support",
+    "settings": "Settings",
+    "legal": "Legal",
+    "myOrders": "My Orders",
+    "addresses": "Addresses",
+    "wishlist": "Wishlist",
+    "notifications": "Notifications",
+    "helpCenter": "Help Center",
+    "contactUs": "Contact Us",
+    "rateApp": "Rate App",
+    "privacyPolicy": "Privacy Policy",
+    "termsConditions": "Terms & Conditions",
+    "aboutUs": "About Us",
+    "language": "Language",
+    "currency": "Currency",
+    "selectCurrency": "Select Currency",
+    "signOut": "Sign Out",
+    "logout": "Log Out",
+    "cancel": "Cancel",
+    "logoutConfirm": "Are you sure you want to logout?",
+    "signInRegister": "Sign In / Register",
+    "signIn": "Sign In",
+    "guestAccount": "Guest Account",
+    "welcomeGuest": "Welcome, Guest!",
+    "signInPersonalized": "Sign in for personalized experience",
+    "signInContinue": "Sign in to continue",
+    "signInSync": "Sign in to sync your profile",
+    "signInOrRegister": "Sign in or register",
+    "userFallback": "User",
+    "addedToWishlist": "Added to wishlist",
+    "removedFromWishlist": "Removed from wishlist",
+    "productNotFound": "Product not found",
+    "reviews": "Reviews",
+    "loadingOptions": "Loading options...",
+    "pleaseSelectAllOptions": "Please select all options",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "quantity": "Quantity",
+    "description": "Description",
+    "productDetails": "Product Details",
+    "sku": "SKU",
+    "weight": "Weight",
+    "stockStatusLabel": "Stock Status",
+    "addedToCart": "Added to cart!",
+    "selectOptions": "Select Options",
+    "viewCart": "View Cart",
+    "failedToLoadProduct": "Failed to load product",
+    "unknownError": "Unknown error",
+    "noProductsFound": "No products found",
+    "rating": "Rating",
+    "tryAdjustingFilters": "Try adjusting your filters",
+    "oopsSomethingWentWrong": "Oops! Something went wrong",
+    "sortBy": "Sort By",
+    "defaultSort": "Default",
+    "priceLowToHigh": "Price: Low to High",
+    "priceHighToLow": "Price: High to Low",
+    "newest": "Newest",
+    "filterBy": "Filter By",
+    "allProducts": "All Products",
+    "onSale": "On Sale",
+    "scanBarcode": "Scan Barcode",
+    "scanToSearch": "Scan to Search",
+    "useBarcodeToFind": "Use barcode or QR code to find products instantly",
+    "pointCameraAtBarcode": "Point camera at barcode or QR code",
+    "searchProductsHint": "Search products...",
+    "recentSearches": "Recent Searches",
+    "popularSearches": "Popular Searches",
+    "resultsFor": "results for",
+    "noResultsFor": "No results for",
+    "tryDifferentKeywords": "Try different keywords or scan a barcode",
+    "searchFailed": "Search failed",
+    "tryAgain": "Try Again",
+    "categoriesTitle": "Categories",
+    "popularitySort": "Popularity",
+    "ratingSort": "Rating",
+    "allFilter": "All",
+    "filterParams": "Filter",
+    "sortParams": "Sort",
+    "itemsCount": "items",
+    "clearFilters": "Clear Filters",
+    "somethingWentWrong": "Something went wrong",
+    "filtersLabel": "Filters",
+    "onSaleOnly": "On Sale Only",
+    "showDiscounted": "Show only discounted products",
+    "inStockOnly": "In Stock Only",
+    "hideOutOfStock": "Hide out of stock products",
+    "priceRange": "Price Range",
+    "applyFilters": "Apply Filters",
+    "loadingConfiguration": "Loading configuration...",
+    "notificationsTitle": "Notifications",
+    "clearAll2": "Clear All",
+    "clearAllNotificationsConfirm": "Are you sure you want to clear all notifications?",
+    "noNotificationsYet": "No notifications yet",
+    "noTitle": "No Title",
+    "myWishlist": "My Wishlist",
+    "failedToLoadWishlist": "Failed to load wishlist",
+    "yourWishlistIsEmpty": "Your wishlist is empty",
+    "saveItemsHint": "Save items you love by tapping the heart icon on any product",
+    "exploreProducts": "Explore Products",
+    "swipeLeftToRemove": "Swipe left to remove",
+    "item": "item",
+    "items2": "items",
+    "removedFromWishlistMsg": "removed from wishlist",
+    "addedToCartMsg": "added to cart",
+    "addToCart2": "Add to Cart",
+    "myAddresses": "My Addresses",
+    "addressDeleted": "Address deleted",
+    "noAddressesYet": "No Addresses Yet",
+    "addDeliveryAddressHint": "Add your delivery addresses for faster checkout",
+    "addYourFirstAddress": "Add Your First Address",
+    "addAddress": "Add Address",
+    "billing": "Billing",
+    "shipping": "Shipping",
+    "setAsDefaultBilling": "Set as Default Billing",
+    "setAsDefaultShipping": "Set as Default Shipping",
+    "setDefault": "Set Default",
+    "deleteAddress": "Delete Address",
+    "deleteAddressConfirm": "Are you sure you want to delete",
+    "address2": "address?",
+    "delete": "Delete",
+    "editAddress": "Edit Address",
+    "addNewAddress": "Add New Address",
+    "addressCategory": "Address Category",
+    "customLabel": "Custom Label",
+    "customLabelHint": "e.g., Mom's House, Gym",
+    "personalDetails": "Personal Details",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "phone": "Phone",
+    "emailOptional": "Email (Optional)",
+    "companyOptional": "Company (Optional)",
+    "companyName": "Company Name",
+    "addressDetails": "Address Details",
+    "selectOnMap": "Select on Map",
+    "addressLine1": "Address Line 1",
+    "addressLine1Hint": "Street address, P.O. box",
+    "addressLine2Optional": "Address Line 2 (Optional)",
+    "addressLine2Hint": "Apartment, suite, unit, building, floor",
+    "city": "City",
+    "stateProvince": "State/Province",
+    "postcode": "Postcode",
+    "country": "Country",
+    "addressSettings": "Address Settings",
+    "useAddressFor": "Use this address for:",
+    "billingOnly": "Billing Only",
+    "shippingOnly": "Shipping Only",
+    "both": "Both",
+    "setAsDefaultBillingAddress": "Set as default billing address",
+    "setAsDefaultShippingAddress": "Set as default shipping address",
+    "updateAddress": "Update Address",
+    "saveAddress": "Save Address",
+    "fieldRequired": "This field is required",
+    "home": "Home",
+    "work": "Work",
+    "office": "Office",
+    "other": "Other",
+    "pickLocation": "Pick Location",
+    "moveMapToSelect": "Move map to select location",
+    "fetchingAddress": "Fetching address...",
+    "couldNotFetchAddress": "Could not fetch address",
+    "confirmLocation": "Confirm Location",
+    "failedToLoadOrders": "Failed to load orders",
+    "noOrdersYet": "No orders yet",
+    "orderHistoryHint": "Your order history will appear here once you make a purchase",
+    "startShopping": "Start Shopping",
+    "orderPrefix": "Order #",
+    "orderTotal": "Total",
+    "orderDetails": "Order Details",
+    "failedToLoadOrderDetails": "Failed to load order details",
+    "goBack": "Go Back",
+    "orderItems": "Order Items",
+    "orderSummary": "Order Summary",
+    "shippingAddress": "Shipping Address",
+    "billingAddress": "Billing Address",
+    "paymentMethod": "Payment Method",
+    "notSpecified": "Not specified",
+    "totalLabel": "Total:",
+    "shippingCost": "Shipping",
+    "discount": "Discount",
+    "tax": "Tax",
+    "qtyPrefix": "Qty:",
+    "skuPrefix": "SKU:",
+    "eachSuffix": "each",
+    "premiumShoppingExperience": "Premium Shopping Experience",
+    "selectBillingAddress": "Select Billing Address",
+    "selectShippingAddress": "Select Shipping Address",
+    "selectAddress": "Select Address",
+    "noAddressesFound": "No addresses found",
+    "addAnAddressToContinue": "Add an address to continue",
+    "addNewAddress2": "Add New Address",
+    "defaultLabel": "Default",
+    "exploreProducts2": "Explore Products",
+    "welcomeBack": "Welcome back! Please login",
+    "emailLabel": "Email",
+    "emailHint": "Enter your email",
+    "passwordLabel": "Password",
+    "passwordHint": "Enter your password",
+    "forgotPassword": "Forgot Password?",
+    "loginButton": "Login",
+    "orContinueWith": "Or continue with",
+    "dontHaveAccount": "Don't have an account? ",
+    "signUp": "Sign Up",
+    "skipForNow": "Skip for now",
+    "loginSuccessful": "Login successful!",
+    "createAccount": "Create Account",
+    "joinToday": "Join {appName} today!",
+    "usernameLabel": "Username",
+    "usernameHint": "Choose a username",
+    "createPasswordHint": "Create a strong password",
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordHint": "Re-enter your password",
+    "agreeToTerms": "I agree to the ",
+    "termsOfService": "Terms of Service",
+    "and": " and ",
+    "createAccountButton": "Create Account",
+    "orSignUpWith": "Or sign up with",
+    "alreadyHaveAccount": "Already have an account? ",
+    "pleaseAgreeToTerms": "Please agree to terms and conditions",
+    "registrationSuccessful": "Registration successful! Please login.",
+    "placingOrder": "Placing your order...",
+    "orderPaymentFrom": "Order Payment from",
+    "paymentFor": "Payment for",
+    "paymentCancelled": "Payment cancelled",
+    "tapToSelectAddress": "Tap to select address",
+    "free": "Free",
+    "enterCouponCode": "Enter coupon code",
+    "apply": "Apply",
+    "total": "Total",
+    "addSpecialInstructions": "Add any special instructions...",
+    "placeOrder": "Place Order",
+    "pleaseSelectPaymentMethod": "Please select a payment method",
+    "pleaseSelectAddresses": "Please select billing and shipping addresses",
+    "orderPlacedSuccessfully": "Order Placed Successfully!",
+    "thankYouForShopping": "Thank you for shopping with us",
+    "orderNumber": "Order Number",
+    "confirmation": "Confirmation",
+    "sentToEmail": "Sent to email",
+    "delivery": "Delivery",
+    "inProgress": "In progress",
+    "trackMyOrder": "Track My Order",
+    "orderNotesOptional": "Order Notes (Optional)",
+    "couponCode": "Coupon Code",
+    "writeReview": "Write a review",
+    "visitStore": "Visit Store",
+    "sellerInformation": "Seller Information",
+    "youMayAlsoLike": "You May Also Like",
+    "verifiedSeller": "Verified Seller"
+  },
+  "languages": {
+    "default": "en",
+    "enabled": [
+      {
+        "code": "en",
+        "name": "English"
+      },
+      {
+        "code": "ar",
+        "name": "Arabic"
+      },
+      {
+        "code": "ur",
+        "name": "Urdu"
+      },
+      {
+        "code": "hi",
+        "name": "Hindi"
+      },
+      {
+        "code": "bn",
+        "name": "Bengali"
+      },
+      {
+        "code": "es",
+        "name": "Spanish"
+      },
+      {
+        "code": "fr",
+        "name": "French"
+      },
+      {
+        "code": "de",
+        "name": "German"
+      },
+      {
+        "code": "it",
+        "name": "Italian"
+      },
+      {
+        "code": "pt",
+        "name": "Portuguese"
+      },
+      {
+        "code": "ru",
+        "name": "Russian"
+      },
+      {
+        "code": "ja",
+        "name": "Japanese"
+      },
+      {
+        "code": "ko",
+        "name": "Korean"
+      },
+      {
+        "code": "zh",
+        "name": "Chinese"
+      },
+      {
+        "code": "tr",
+        "name": "Turkish"
+      },
+      {
+        "code": "vi",
+        "name": "Vietnamese"
+      },
+      {
+        "code": "id",
+        "name": "Indonesian"
+      }
+    ]
+  },
+  "currencies": {
+    "default": "INR",
+    "enabled": [
+      {
+        "code": "INR",
+        "symbol": "₹",
+        "name": "INR"
+      }
+    ]
+  }
+}
