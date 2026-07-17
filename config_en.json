@@ -282,8 +282,8 @@
           "settings": {
             "autoPlay": true,
             "style": "full",
-            "height": 251.04,
-            "width": 100,
+            "height": 268.4972170686458,
+            "width": 98.02102659245517,
             "verticalSpacing": 8,
             "horizontalPadding": 16,
             "borderRadius": 16,
@@ -392,6 +392,35 @@
         "enabled": true,
         "data": {
           "title": "Brands"
+        }
+      },
+      {
+        "id": "banner_1784308435579",
+        "type": "banner",
+        "enabled": true,
+        "data": {
+          "title": "New Section",
+          "banners": [
+            {
+              "id": "banner1",
+              "title": "New Banner",
+              "subtitle": "Banner description",
+              "buttonText": "Shop Now",
+              "color": "#4F46E5",
+              "imageData": null,
+              "imageUrl": null
+            }
+          ],
+          "settings": {
+            "autoPlay": true,
+            "style": "full",
+            "height": 251.04,
+            "width": 100,
+            "verticalSpacing": 8,
+            "horizontalPadding": 16,
+            "borderRadius": 16,
+            "duration": 3000
+          }
         }
       }
     ]
