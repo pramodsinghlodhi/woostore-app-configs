@@ -47,7 +47,7 @@
       "productCard": {
         "showVendor": true,
         "showCartButton": true,
-        "style": "classic"
+        "style": "modern"
       },
       "categoryPage": {
         "style": "modern"
