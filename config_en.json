@@ -272,12 +272,12 @@
           "banners": [
             {
               "id": "banner1",
-              "title": "New Banner",
-              "subtitle": "Banner description",
+              "title": "Vloging  kit",
+              "subtitle": "Handeled Live Streaming",
               "buttonText": "Shop Now",
               "color": "#4F46E5",
               "imageData": null,
-              "imageUrl": "https://woostorebuilder.b-cdn.net/banners/c40ca5ac-73c8-4762-948d-eb62503a6b0a.png"
+              "imageUrl": "https://woostorebuilder.b-cdn.net/banners/40c5630c-1ec6-4cfb-a12a-6428f63aff60.jpeg"
             }
           ],
           "settings": {
@@ -363,7 +363,7 @@
               "buttonText": "Shop Now",
               "color": "#4F46E5",
               "imageData": null,
-              "imageUrl": "https://woostorebuilder.b-cdn.net/banners/f17ec564-a519-4170-ba92-39661f4fffd8.png"
+              "imageUrl": "https://woostorebuilder.b-cdn.net/banners/1ef21dfd-f094-4cff-9d87-0d0ed78a5a35.jpg"
             }
           ],
           "settings": {
