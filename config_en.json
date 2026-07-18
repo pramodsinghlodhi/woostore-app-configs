@@ -71,7 +71,7 @@
       {
         "id": "29",
         "name": "Accessories",
-        "image": false,
+        "image": "https://streamerdevice.com/wp-content/uploads/2026/07/vlogging_rig_500x500.jpeg",
         "icon": "📦",
         "color": "#F59E0B",
         "enabled": true
@@ -191,7 +191,7 @@
       {
         "id": "88",
         "name": "NAS",
-        "image": "https://streamerdevice.com/wp-content/uploads/2026/06/nas-coce.jpg",
+        "image": "https://streamerdevice.com/wp-content/uploads/2026/07/nas_centered.jpeg",
         "icon": "📦",
         "color": "#10B981",
         "enabled": true
@@ -274,7 +274,7 @@
               "id": "banner1",
               "title": "Vloging  kit",
               "subtitle": "Handeled Live Streaming",
-              "buttonText": "Shop Now",
+              "buttonText": "",
               "color": "#4F46E5",
               "imageData": null,
               "imageUrl": "https://woostorebuilder.b-cdn.net/banners/40c5630c-1ec6-4cfb-a12a-6428f63aff60.jpeg"
