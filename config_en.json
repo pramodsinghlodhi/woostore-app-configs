@@ -360,7 +360,7 @@
               "id": "banner1",
               "title": "New Banner",
               "subtitle": "Banner description",
-              "buttonText": "Shop Now",
+              "buttonText": "",
               "color": "#4F46E5",
               "imageData": null,
               "imageUrl": "https://woostorebuilder.b-cdn.net/banners/1ef21dfd-f094-4cff-9d87-0d0ed78a5a35.jpg"
