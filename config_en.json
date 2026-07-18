@@ -293,6 +293,14 @@
         }
       },
       {
+        "id": "brands",
+        "type": "brands",
+        "enabled": true,
+        "data": {
+          "title": "Brands"
+        }
+      },
+      {
         "id": "categories",
         "type": "categories",
         "enabled": true,
@@ -385,14 +393,6 @@
         "data": {
           "title": "Popular Products",
           "source": "popular"
-        }
-      },
-      {
-        "id": "brands",
-        "type": "brands",
-        "enabled": true,
-        "data": {
-          "title": "Brands"
         }
       },
       {
