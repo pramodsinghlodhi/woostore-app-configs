@@ -398,7 +398,7 @@
       {
         "id": "brand_list_1784309556191",
         "type": "brand_list",
-        "enabled": true,
+        "enabled": false,
         "data": {
           "title": "Brand List"
         }
