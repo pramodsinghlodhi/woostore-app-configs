@@ -14,7 +14,7 @@
   },
   "appAssets": {
     "splashLogo": "https://woostorebuilder.b-cdn.net/banners/4931ae13-cbbc-4149-b358-7dba2ecf97d0.png",
-    "appLauncherIcon": "https://woostorebuilder.b-cdn.net/banners/ab79a4e5-c093-4a8d-9342-d333234d6368.png"
+    "appLauncherIcon": "https://woostorebuilder.b-cdn.net/banners/60270d63-7798-4a1d-b2e9-1adce1f499a3.jpg"
   },
   "onboarding": {
     "enabled": true,
@@ -159,7 +159,7 @@
       {
         "id": "52",
         "name": "Headphone",
-        "image": "https://streamerdevice.com/wp-content/uploads/2026/06/tffkuyf.jpg",
+        "image": "https://streamerdevice.com/wp-content/uploads/2026/07/product_cover_500x500_headphones_yellow-1.webp",
         "icon": "📱",
         "color": "#059669",
         "enabled": true
@@ -377,7 +377,7 @@
           "settings": {
             "autoPlay": true,
             "style": "full",
-            "height": 251.04,
+            "height": 276.2894248608535,
             "width": 100,
             "verticalSpacing": 8,
             "horizontalPadding": 16,
