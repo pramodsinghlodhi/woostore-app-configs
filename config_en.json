@@ -278,6 +278,15 @@
               "color": "#4F46E5",
               "imageData": null,
               "imageUrl": "https://woostorebuilder.b-cdn.net/banners/c5eefe23-e110-4069-9cfa-cf70c2c3b270.webp"
+            },
+            {
+              "id": "banner2",
+              "title": "New Banner",
+              "subtitle": "Banner description",
+              "buttonText": "Shop Now",
+              "color": "#4F46E5",
+              "imageData": null,
+              "imageUrl": "https://woostorebuilder.b-cdn.net/banners/584b049f-4bbd-43e2-90d0-453d53a5fd43.png"
             }
           ],
           "settings": {
