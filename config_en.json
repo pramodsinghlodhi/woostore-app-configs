@@ -283,12 +283,12 @@
           "settings": {
             "autoPlay": true,
             "style": "full",
-            "height": 300,
+            "height": 218.4044526901671,
             "width": 100,
-            "verticalSpacing": 4.304267161410041,
-            "horizontalPadding": 3.2838589981447224,
-            "borderRadius": 26.23376623376625,
-            "duration": 3000
+            "verticalSpacing": 12.467532467532486,
+            "horizontalPadding": 10.148423005565869,
+            "borderRadius": 15.102040816326546,
+            "duration": 6141
           }
         }
       },
