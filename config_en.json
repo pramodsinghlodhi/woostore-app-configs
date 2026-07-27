@@ -284,9 +284,9 @@
             "autoPlay": true,
             "style": "full",
             "height": 275.1762523191096,
-            "width": 100,
+            "width": 80,
             "verticalSpacing": 1.0884353741496835,
-            "horizontalPadding": 30,
+            "horizontalPadding": 0,
             "borderRadius": 29.387755102040828,
             "duration": 6141
           }
